@@ -1,0 +1,71 @@
+Advanced Data Analytics — Machine Learning for Analysts
+
+🔹 Lesson 1: Introduction to Machine Learning for Data Analysts
+================================================================
+Summary:
+Machine Learning (ML) helps analysts move from descriptive (“what happened”) to predictive (“what will happen”).
+Supervised Learning: Predict known outcomes (e.g., sales forecast)
+Unsupervised Learning: Discover patterns (e.g., customer segmentation)
+Common algorithms: Linear Regression, Decision Trees, K-Means
+
+Example:
+A retail analyst predicts next month’s sales using historical sales + seasonality via regression.
+
+Video: Machine Learning for Data Analysts – 15 mins
+
+
+🔹 Lesson 2: Predictive Modeling (Linear Regression)
+==========================================================
+Summary:
+Predictive modeling uses past data to estimate future outcomes.
+Linear Regression: Relationship between variables
+Equation: y = mx + c
+Metrics: R² score, RMSE
+
+Example:
+Predict house prices based on area, location, and number of rooms.
+
+Video: Linear Regression with Python – 20 mins
+
+
+🔹 Lesson 3: Classification Models for Analysts
+===================================================
+Summary:
+Classification = predicting categories (e.g., Yes/No, High/Low).
+Algorithms: Logistic Regression, Decision Trees, Random Forest
+Metrics: Accuracy, Precision, Recall, F1-score
+
+Example:
+A telecom analyst predicts whether a customer will churn (Yes/No).
+
+Video: Classification Models Explained – 18 mins
+
+
+🔹 Lesson 4: Advanced Power BI Dashboards
+==============================================
+Summary:
+Power BI connects ML outputs and visuals in one interactive dashboard.
+Integrate ML predictions with Power BI visuals
+Use DAX formulas for KPIs
+Add filters, drilldowns, and trend indicators
+
+Example:
+A business dashboard predicts sales growth and visually compares regions.
+
+Video: Advanced Power BI Dashboard Tutorial – 22 mins
+
+
+🔹 Lesson 5: Business Case Study – Predicting Customer Churn
+==============================================================
+Summary:
+Import telecom data
+Clean and preprocess
+Train logistic regression model
+Visualize churn rate by region in Power BI
+Recommend retention actions
+
+Example:
+ML model predicts 23% customers at risk, helping business reduce churn by 12% through offers.
+
+Video: Customer Churn Prediction Case Study – 25 mins
+
